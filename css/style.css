@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #6222CC;
+    --primary: #006738;
     --secondary: #FBA504;
     --light: #F6F4F9;
     --dark: #04000B;
@@ -492,20 +492,20 @@ h6,
 .testimonial-carousel .owl-nav .owl-prev:hover,
 .testimonial-carousel .owl-nav .owl-next:hover {
     color: #FFFFFF;
-    background: var(--primary);
+    background: #fba504;
     box-shadow: 0 0 10px rgba(0, 0, 0, .5);
 }
 
 
 /*** Team ***/
 .team-item .btn {
-    color: var(--primary);
+    color: #006738;
     background: #FFFFFF;
 }
 
 .team-item .btn:hover {
     color: #FFFFFF;
-    background: var(--primary);
+    background: #006738;
 }
 
 
